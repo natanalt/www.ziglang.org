@@ -80,3 +80,6 @@ DefaultContentLanguage = "en"
   [languages.ar]
     languageName = "عربی"
     weight = 2
+  [languages.pl]
+    languageName = "polski"
+    weight = 2

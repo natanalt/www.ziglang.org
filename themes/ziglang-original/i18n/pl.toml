@@ -1,0 +1,50 @@
+[slogan-latest-release]
+other = "Najnowsza wersja: &nbsp; <b>{{ . }}</b>"
+
+
+[back-to-home]
+other = "← Powrót do <b>strony głównej</b>"
+
+[back-to-parent]
+other = "← Powrót do sekcji <b>{{ . }}</b>"
+
+
+[menu-community]
+other = "Dołącz do społeczności (ang.)"
+
+[menu-source]
+other = "Kod źródłowy"
+
+
+[downloads-heading]
+other = "Wydania"
+
+[downloads-install-from-pkg-manager]
+other = "Możesz również <a href=\"https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager\"> zainstalować Zig używając menedżera pakietów</a>."
+
+[downloads-json]
+other = "Istnieje <a href=\"https://ziglang.org/download/index.json\">wersja tej strony w formacie JSON</a>."
+
+[download-binary]
+other = "Skompilowany"
+
+[download-documentation]
+other = "<a href=\"{{ . }}\">Dokumentacja języka</a>"
+
+[download-filename]
+other = "Nazwa pliku"
+
+[download-kind]
+other = "Rodzaj"
+
+[download-release-notes]
+other = "<a href=\"{{ . }}\">Informacje o wydaniu</a>"
+
+[download-size]
+other = "Rozmiar"
+
+[download-source]
+other = "Kod źródłowy"
+
+[download-stdlib-docs]
+other = "<a href=\"{{ . }}\">Dokumentacja standardowych bibliotek</a> (eksperymentalna)"
